@@ -44,8 +44,16 @@ Built for solo professionals: doctors, dentists, psychologists, therapists and c
 **Automation & integrations**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Evolution API](https://img.shields.io/badge/Evolution_API-00A884?style=flat&logo=whatsapp&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat&logo=whatsapp&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=flat)
+
+**Data & backend**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
 
 **Dev tools**
 
